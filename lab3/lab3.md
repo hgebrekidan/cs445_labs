@@ -1,6 +1,7 @@
 
 # CS445 Course Lab Solutions
 
+ ex1. 
  ![Lab3.1](https://github.com/hgebrekidan/cs445_labs/blob/main/lab3/lab3.1.png)
  ![Lab3.2](https://github.com/hgebrekidan/cs445_labs/blob/main/lab3/lab3.2.png)
  ![Lab3.3](https://github.com/hgebrekidan/cs445_labs/blob/main/lab3/lab3.3.png)
