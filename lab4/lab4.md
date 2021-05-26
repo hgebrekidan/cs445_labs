@@ -1,6 +1,7 @@
 assign each functions to the object that is attached to the eventHandler 
 and assign variables
 ![first js file](https://github.com/hgebrekidan/cs445_labs/blob/main/lab4/first.png)
+
 function for startingAnimation: 
 ![second js file](https://github.com/hgebrekidan/cs445_labs/blob/main/lab4/second.png)
 Function for stopping animation: 
