@@ -4,4 +4,4 @@ Exercise 1
 
 Exercise 2
 
-![second JS file]()
+![second JS file](https://github.com/hgebrekidan/cs445_labs/blob/main/lab6/second.png)
