@@ -1,7 +1,7 @@
 
 HTML File
 
-![html file](https://github.com/hgebrekidan/cs445_labs/blob/main/lab6/first.png)
+![html file](https://github.com/hgebrekidan/cs445_labs/blob/main/lab7/html.png)
 
 JS File
 
