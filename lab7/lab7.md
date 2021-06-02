@@ -8,7 +8,7 @@ JS File
 ![js file1](https://github.com/hgebrekidan/cs445_labs/blob/main/lab7/js1.png)
 
 
-![js file](https://github.com/hgebrekidan/cs445_labs/blob/main/lab7/js1.png)
+![js file](https://github.com/hgebrekidan/cs445_labs/blob/main/lab7/js2.png)
 
 CSS File
 
