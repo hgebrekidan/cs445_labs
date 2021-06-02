@@ -1,0 +1,24 @@
+.main-content{
+    display: flex;
+    flex-direction: column;
+}
+.first{
+    flex: 1;
+    background-color: blue;
+}
+.second{
+    flex: 1;
+    background-color: violet;
+}
+.third{
+    flex: 1;
+    background-color: grey;
+}
+#name{
+    
+    color:whitesmoke;
+}
+#refreshBtn{
+    background-color: purple;
+    color: whitesmoke;
+}
