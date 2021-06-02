@@ -1,5 +1,5 @@
 
-![html page](http://127.0.0.1:5500/cs445_labs/lesson07-fetch/lab7/user.html)
+![html page](https://github.com/hgebrekidan/cs445_labs/blob/main/lab7/page.png)
 
 HTML File
 
