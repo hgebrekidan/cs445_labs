@@ -19,6 +19,7 @@ async function fetchUser(URL) {
     let jsonObj = await response.json();
     let firstName = jsonObj.results[0].name.first;
     let lastName = jsonObj.results[0].name.last;
+    let email=jsonObj.results[0].email;
     let profileImageURL = jsonObj.results[0].picture.large;
 
     document.getElementById("name").innerHTML = firstName + " " + lastName;
@@ -30,9 +31,11 @@ async function fetchUser1(URL) {
     let jsonObj = await response.json();
     let firstName = jsonObj.results[0].name.first;
     let lastName = jsonObj.results[0].name.last;
+    let email=jsonObj.results[0].email;
     let profileImageURL = jsonObj.results[0].picture.large;
 
     document.getElementById("name1").innerHTML = firstName + " " + lastName;
+    document.getElementById("email1").innerHTML=email;
     document.getElementById("profileImage1").src = profileImageURL;
        
 }
@@ -41,9 +44,11 @@ async function fetchUser2(URL) {
     let jsonObj = await response.json();
     let firstName = jsonObj.results[0].name.first;
     let lastName = jsonObj.results[0].name.last;
+    let email=jsonObj.results[0].email;
     let profileImageURL = jsonObj.results[0].picture.large;
 
     document.getElementById("name2").innerHTML = firstName + " " + lastName;
+    document.getElementById("email2").innerHTML=email;
     document.getElementById("profileImage2").src = profileImageURL;
        
 }
